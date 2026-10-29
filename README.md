@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Java+IDE-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
 **💻 IntelliJ IDEA Free Installer** — IntelliJ IDEA is JetBrains' flagship Java and JVM language IDE, widely regarded as the most intelligent Java development environment. Works without internet access, no account required. Full offline installation.
@@ -30,16 +30,16 @@
 
 ## 📖 About IntelliJ IDEA
 
-IntelliJ IDEA is JetBrains' flagship Java and JVM language IDE, widely regarded as the most intelligent Java development environment. Features include deep code analysis, smart code completion, built-in version control, database tools, and support for dozens of frameworks. The Community Edition is free and open-source; the Ultimate Edition adds support for web frameworks, databases, and enterprise technologies.
+IntelliJ IDEA is JetBrains' flagship Java and JVM language IDE, widely regarded as the most intelligent Java development environment. The free Community edition covers Java, Kotlin, and Groovy; the paid Ultimate edition adds Spring, web, and enterprise framework support.
 
 ---
 
 ## ❌ Problem: IntelliJ IDEA is hard to access
 
-- **Resource Demands** — High memory and CPU usage compared to lightweight editors
-- **Commercial Ultimate Edition** — Full-featured version requires paid subscription
-- **Startup Time** — Slower startup than lightweight editors or VS Code
-- **Learning Curve** — Feature-rich interface takes time to navigate efficiently
+- **Resource Intensive** — High memory and CPU usage especially on large projects
+- **Paid Ultimate Edition** — Web and enterprise features require paid Ultimate subscription
+- **Steep Learning Curve** — Extensive feature set takes time to fully utilize
+- **Indexing Time** — Initial project indexing can take minutes on large codebases
 
 ---
 
